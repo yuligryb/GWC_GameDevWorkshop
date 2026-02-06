@@ -1,4 +1,3 @@
-# GWC_GameDevWorkshop
 # Collect the Stars! 🚀⭐
 A space-themed arcade game built with Phaser 3. Collect stars, avoid asteroids, and reach 100 points to win!
 
