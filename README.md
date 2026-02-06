@@ -10,7 +10,7 @@ A space-themed arcade game built with Phaser 3. Collect stars, avoid asteroids, 
 
 ---
 
-## Step 1: Fork This Repository (2 minutes)
+## Step 1: Fork This Repository!
 
 1. Click the **Fork** button at the top right of this page
 2. Go to your forked repository
@@ -20,15 +20,7 @@ A space-themed arcade game built with Phaser 3. Collect stars, avoid asteroids, 
 
 ---
 
-## Step 2: Create game.js File (1 minute)
-
-1. In your repository, click **Add file** → **Create new file**
-2. Name it: `game.js`
-3. Leave it blank for now - we'll build it together in the next step!
-
----
-
-## Step 3: Build the Game - Copy Each Section Below (22 minutes)
+## Step 2: Build the Game - Copy Each Section Below!
 
 Follow along and copy-paste each section into your `game.js` file in order.
 
@@ -479,7 +471,7 @@ function update() {
 
 ---
 
-### 📋 **Section 12: Start the Game**
+### 📋 **Section 12: Start the Game** (I already included this is your game.js file)
 Add this FINAL code:
 
 ```javascript
@@ -494,8 +486,7 @@ const game = new Phaser.Game(config);
 
 ---
 
-## Step 4: Commit Your Code (2 minutes)
-
+## Step 3: Commit Your Code 
 1. Scroll down to the bottom of the page
 2. Click **Commit changes**
 3. Click **Commit changes** again in the popup
@@ -503,10 +494,10 @@ const game = new Phaser.Game(config);
 
 ---
 
-## Step 5: Play Your Game! (3 minutes)
+## Step 6: Play Your Game!
 
 1. Go to: `https://[your-username].github.io/[repository-name]/`
-2. Use **Arrow Keys** or **WASD** to move left and right
+2. Use **WASD** to move left and right
 3. Collect yellow stars = +10 points each
 4. Avoid purple spinning asteroids = instant game over
 5. Reach 100 points to win!
