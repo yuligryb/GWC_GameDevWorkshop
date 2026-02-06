@@ -494,7 +494,7 @@ const game = new Phaser.Game(config);
 
 ---
 
-## Step 6: Play Your Game!
+## Step 4: Play Your Game!
 
 1. Go to: `https://[your-username].github.io/[repository-name]/`
 2. Use **WASD** to move left and right
